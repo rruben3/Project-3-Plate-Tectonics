@@ -14,7 +14,7 @@ C) The majority of the Earthquakes in April of 2015 were around the south area o
 
 Part 2 
 
-D) You can see as shown in the plot that where I circled the majority of the earthquakes occur. There are plenty more divergent and transform plates on the map but those were two of the most noticeable ones as there was more activity. 
+D) You can see as shown in the plot that where I circled the majority of the earthquakes occur. There are plenty more divergent and transform plates on the map but those were two of the most noticeable ones as there was more activity. The only pattern I could see with the cluster of data is that the earthquakes are very common in the areas. 
 
 Conclusion: 
 
